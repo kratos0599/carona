@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 Carona Feliz
 
 Um sistema de carona solidária que permite aos usuários oferecer ou solicitar caronas, com interfaces distintas para motoristas e passageiros. Composto por uma **API backend Laravel** e um **aplicativo móvel Flutter**.
@@ -546,3 +547,7 @@ Desenvolvido com ❤️ pela equipe Carona Feliz:
 Para mais informações técnicas, consulte os arquivos:
 - `FUNCIONALIDADES.md` - Lista completa de funcionalidades
 - `CORRECOES_REALIZADAS.md` - Histórico de melhorias e correções 
+=======
+# carona
+carona feliz 2.0
+>>>>>>> b6e7a9ded715793b84607e98197cfbc908adb8e3
